@@ -24,6 +24,7 @@ tape('should respond b64', (t) => {
 	});
 });
 tape('should respond user-agent', (t) => {
+
 	const opts = { headers: { 'User-Agent': 'tape' } };
 	jsonist.get(`${urlBase}/user-agent`, opts, (err, body) => {
 		if (err) t.error(err);
@@ -52,3 +53,5 @@ const name = "Hellen";
 const name = "abc" ;
 const name = "xyz";
 const name = "wazzup";
+const name = "test";
+
