@@ -37,3 +37,4 @@ tape('cleanup', function (t) {
   server.close()
   t.end()
 })
+const name = "bernice";
