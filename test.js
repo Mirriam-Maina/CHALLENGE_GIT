@@ -46,3 +46,5 @@ const name = "again"
 const name = "Hellen";
 const name = "Maina";
 const name = " Simulate conflict 2";
+const name = " This is another name";
+const name = " This is bla bla bla";
