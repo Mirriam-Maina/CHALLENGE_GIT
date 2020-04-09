@@ -1,4 +1,4 @@
-const tape = require('tape');
+iconst tape = require('tape');
 const jsonist = require('jsonist');
 
 const PORT = (process.env.PORT = process.env.PORT || require('get-PORT-sync')());
@@ -45,3 +45,4 @@ const name = "NG'ETHE__THEE"
 const name = "again"
 const name = "Hellen";
 
+const name = "Maina";
