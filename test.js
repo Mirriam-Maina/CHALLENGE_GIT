@@ -37,4 +37,5 @@ tape('cleanup', function (t) {
   server.close()
   t.end()
 })
-const name "Grace";
+const name = "Grace";
+const name = "Ng'ethe2" ;
