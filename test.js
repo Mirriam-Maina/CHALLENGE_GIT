@@ -41,7 +41,8 @@ const name = 'Jeff';
 const name = 'Mirriam';
 const name = "Makokha";
 const name = "Okacha";
-const name = "NG'ETHE__THEE"
-const name = "again"
+const name = "NG'ETHE__THEE" ;
+const name = "again";
 const name = "Hellen";
-
+const name = "abc" ;
+const name = "xyz";
