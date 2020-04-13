@@ -50,3 +50,4 @@ const name = "again";
 const name = "Hellen";
 const name = "abc" ;
 const name = "xyz";
+const name = "wazzup";
