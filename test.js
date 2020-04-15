@@ -38,6 +38,7 @@ tape('cleanup', function(t) {
 	t.end();
 });
 const name = 'Jeff';
+const sth = "This was added when I was creating GIT103 video";
 const name = 'Mirriam';
 const name = "Makokha";
 const name = "Okacha";
